@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/commutatus-deploy/static/css/main.ea02f195.chunk.css",
-    "main.js": "/commutatus-deploy/static/js/main.328b70be.chunk.js",
-    "main.js.map": "/commutatus-deploy/static/js/main.328b70be.chunk.js.map",
+    "main.js": "/commutatus-deploy/static/js/main.dc0c5a13.chunk.js",
+    "main.js.map": "/commutatus-deploy/static/js/main.dc0c5a13.chunk.js.map",
     "runtime-main.js": "/commutatus-deploy/static/js/runtime-main.0c3e5ab1.js",
     "runtime-main.js.map": "/commutatus-deploy/static/js/runtime-main.0c3e5ab1.js.map",
     "static/css/2.16e481b0.chunk.css": "/commutatus-deploy/static/css/2.16e481b0.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.16e481b0.chunk.css",
     "static/js/2.1826533f.chunk.js",
     "static/css/main.ea02f195.chunk.css",
-    "static/js/main.328b70be.chunk.js"
+    "static/js/main.dc0c5a13.chunk.js"
   ]
 }
