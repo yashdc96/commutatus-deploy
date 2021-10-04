@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/commutatus-deploy/static/css/main.ea02f195.chunk.css",
+    "main.js": "/commutatus-deploy/static/js/main.328b70be.chunk.js",
+    "main.js.map": "/commutatus-deploy/static/js/main.328b70be.chunk.js.map",
+    "runtime-main.js": "/commutatus-deploy/static/js/runtime-main.0c3e5ab1.js",
+    "runtime-main.js.map": "/commutatus-deploy/static/js/runtime-main.0c3e5ab1.js.map",
+    "static/css/2.16e481b0.chunk.css": "/commutatus-deploy/static/css/2.16e481b0.chunk.css",
+    "static/js/2.1826533f.chunk.js": "/commutatus-deploy/static/js/2.1826533f.chunk.js",
+    "static/js/2.1826533f.chunk.js.map": "/commutatus-deploy/static/js/2.1826533f.chunk.js.map",
+    "static/js/3.15362c7a.chunk.js": "/commutatus-deploy/static/js/3.15362c7a.chunk.js",
+    "static/js/3.15362c7a.chunk.js.map": "/commutatus-deploy/static/js/3.15362c7a.chunk.js.map",
+    "index.html": "/commutatus-deploy/index.html",
+    "static/css/2.16e481b0.chunk.css.map": "/commutatus-deploy/static/css/2.16e481b0.chunk.css.map",
+    "static/css/main.ea02f195.chunk.css.map": "/commutatus-deploy/static/css/main.ea02f195.chunk.css.map",
+    "static/js/2.1826533f.chunk.js.LICENSE.txt": "/commutatus-deploy/static/js/2.1826533f.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/commutatus-deploy/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3e5ab1.js",
+    "static/css/2.16e481b0.chunk.css",
+    "static/js/2.1826533f.chunk.js",
+    "static/css/main.ea02f195.chunk.css",
+    "static/js/main.328b70be.chunk.js"
+  ]
+}
